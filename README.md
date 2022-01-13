@@ -3,4 +3,4 @@
 
 ![poster](poster.jpg)
 
-![mindmap](mindmap)
+![mindmap](mindmap.jpg)
